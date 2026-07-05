@@ -1,0 +1,6 @@
+{
+  "name": "Samkil Chat",
+  "description": "WhatsApp-like messaging app with secure end-to-end encryption, real-time media sharing, and high-fidelity video/voice call capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
